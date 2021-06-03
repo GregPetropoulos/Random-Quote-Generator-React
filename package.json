@@ -1,6 +1,6 @@
 {
   "name": "random-quote-gen",
-  "homepage": "https://GregPetropoulos.github.io/Employee-Directory",
+  "homepage": "https://GregPetropoulos.github.io/Random-Quote-Generator-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
