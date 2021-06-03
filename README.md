@@ -1,3 +1,8 @@
+
+## Links
+### [**Deployed Link**](https://gregpetropoulos.github.io/Random-Quote-Generator-React/)
+### [**GitHub Link**](https://github.com/GregPetropoulos/Random-Quote-Generator-React)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
